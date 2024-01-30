@@ -23,6 +23,7 @@ The most demanded sub-category is Phones.
 The most profitable product is the "Mountain 200 Black, 38."
 A promotion level of 2.01 million leads to increased profits.
 The USA experiences maximum sales with a 3.4% promotion increase from 32%.
+
 Tools Used:
 Figma for the background layout.
 Tableau for the data visualization.
