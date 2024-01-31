@@ -1,34 +1,39 @@
 # Sales-Tableau-Dashboard
 I am excited to share my recent Tableau Dashboard showcasing valuable insights into "Super Store Sales," implemented just last week. The dataset, generously provided by Information Technology Institute (ITI), underwent a comprehensive analysis.
 
-Steps were covered:
+#Steps were covered:
 
 Data Exploration:
-
     Thorough examination for Missing and Duplicate Values.
-  
-Data Cleaning:
 
+Data Cleaning:
     Removal of Duplicate, blank, and irrelevant data.
   
 Data Preprocessing:
-
     Creation of new attributes for enhanced data analysis.
   
 Data Visualization:
-
     Development of an Interactive Dashboard featuring Key Performance Indicators, Trends, and Slicers.
 
-Insights from the Dashboard:
+#Insights from the Dashboard:
 The USA region leads in sales, contributing to a substantial 32% share amounting to 9.4 million.
+
 Sales peak among customers with a Bachelor's degree in Education, accounting for 33.7% and 9.9 million.
+
 The preferred payment mode is predominantly USD (50%, 14.65 million) followed by AUD (31.3%, 9.05 million).
+
 Sales reach their zenith in June and October.
+
 Maximum profits are recorded in June and December.
+
 Profits are highest in the fourth quarter of 2013.
+
 The most demanded sub-category is Phones.
+
 The most profitable product is the "Mountain 200 Black, 38."
+
 A promotion level of 2.01 million leads to increased profits.
+
 The USA experiences maximum sales with a 3.4% promotion increase from 32%.
 
 Tools Used:
