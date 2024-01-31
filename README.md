@@ -12,7 +12,7 @@ Data Cleaning:
 Data Preprocessing:
     Creation of new attributes for enhanced data analysis.
   
-Data Visualization:
+#Data Visualization:
     Development of an Interactive Dashboard featuring Key Performance Indicators, Trends, and Slicers.
 
 #Insights from the Dashboard:
