@@ -1,7 +1,7 @@
 # Sales-Tableau-Dashboard
 I am excited to share my recent Tableau Dashboard showcasing valuable insights into "Super Store Sales," implemented just last week. The dataset, generously provided by Information Technology Institute (ITI), underwent a comprehensive analysis.
 
-##Steps were covered:
+Steps were covered:
 
 Data Exploration:
     Thorough examination for Missing and Duplicate Values.
@@ -15,7 +15,8 @@ Data Preprocessing:
 Data Visualization:
     Development of an Interactive Dashboard featuring Key Performance Indicators, Trends, and Slicers.
 
-#Insights from the Dashboard:
+Insights from the Dashboard:
+
 The USA region leads in sales, contributing to a substantial 32% share amounting to 9.4 million.
 
 Sales peak among customers with a Bachelor's degree in Education, accounting for 33.7% and 9.9 million.
