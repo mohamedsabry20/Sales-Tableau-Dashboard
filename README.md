@@ -5,19 +5,19 @@ Steps were covered:
 
 Data Exploration:
 
-  Thorough examination for Missing and Duplicate Values.
+    Thorough examination for Missing and Duplicate Values.
   
 Data Cleaning:
 
-  Removal of Duplicate, blank, and irrelevant data.
+    Removal of Duplicate, blank, and irrelevant data.
   
 Data Preprocessing:
 
-  Creation of new attributes for enhanced data analysis.
+    Creation of new attributes for enhanced data analysis.
   
 Data Visualization:
 
-  Development of an Interactive Dashboard featuring Key Performance Indicators, Trends, and Slicers.
+    Development of an Interactive Dashboard featuring Key Performance Indicators, Trends, and Slicers.
 
 Insights from the Dashboard:
 The USA region leads in sales, contributing to a substantial 32% share amounting to 9.4 million.
