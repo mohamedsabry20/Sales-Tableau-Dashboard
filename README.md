@@ -1,7 +1,7 @@
 # Sales-Tableau-Dashboard
 I am excited to share my recent Tableau Dashboard showcasing valuable insights into "Super Store Sales," implemented just last week. The dataset, generously provided by Information Technology Institute (ITI), underwent a comprehensive analysis.
 
-#Steps were covered:
+##Steps were covered:
 
 Data Exploration:
     Thorough examination for Missing and Duplicate Values.
