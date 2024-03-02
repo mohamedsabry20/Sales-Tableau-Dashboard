@@ -1,45 +1,44 @@
 # Sales-Tableau-Dashboard
 I am excited to share my recent Tableau Dashboard showcasing valuable insights into "Super Store Sales," implemented just last week. The dataset, generously provided by Information Technology Institute (ITI), underwent a comprehensive analysis.
 
-Steps were covered:
+# Steps were covered:
+## 1_Data Exploration:
+   ### Thorough examination for Missing and Duplicate Values.
 
-Data Exploration:
-    Thorough examination for Missing and Duplicate Values.
-
-Data Cleaning:
-    Removal of Duplicate, blank, and irrelevant data.
+## 2_Data Cleaning:
+ ###   Removal of Duplicate, blank, and irrelevant data.
   
-Data Preprocessing:
-    Creation of new attributes for enhanced data analysis.
+## 3_Data Preprocessing:
+ ###   Creation of new attributes for enhanced data analysis.
   
-Data Visualization:
-    Development of an Interactive Dashboard featuring Key Performance Indicators, Trends, and Slicers.
+## 4_Data Visualization:
+  ###  Development of an Interactive Dashboard featuring Key Performance Indicators, Trends, and Slicers.
 
-Insights from the Dashboard:
+# Insights from the Dashboard:
 
-The USA region leads in sales, contributing to a substantial 32% share amounting to 9.4 million.
+## 1_The USA region leads in sales, contributing to a substantial 32% share amounting to 9.4 million.
 
-Sales peak among customers with a Bachelor's degree in Education, accounting for 33.7% and 9.9 million.
+## 2_Sales peak among customers with a Bachelor's degree in Education, accounting for 33.7% and 9.9 million.
 
-The preferred payment mode is predominantly USD (50%, 14.65 million) followed by AUD (31.3%, 9.05 million).
+## 3_The preferred payment mode is predominantly USD (50%, 14.65 million) followed by AUD (31.3%, 9.05 million).
 
-Sales reach their zenith in June and October.
+## 4_Sales reach their zenith in June and October.
 
-Maximum profits are recorded in June and December.
+## 5_Maximum profits are recorded in June and December.
 
-Profits are highest in the fourth quarter of 2013.
+## 6_Profits are highest in the fourth quarter of 2013.
 
-The most demanded sub-category is Phones.
+## 7_The most demanded sub-category is Phones.
 
-The most profitable product is the "Mountain 200 Black, 38."
+## 8_The most profitable product is the "Mountain 200 Black, 38."
 
-A promotion level of 2.01 million leads to increased profits.
+## 9_A promotion level of 2.01 million leads to increased profits.
 
-The USA experiences maximum sales with a 3.4% promotion increase from 32%.
+## 10_The USA experiences maximum sales with a 3.4% promotion increase from 32%.
 
-Tools Used:
-Figma for the background layout.
-Tableau for the data visualization.
+# Tools Used:
+## _Figma for the background layout.
+## _Tableau for the data visualization.
 🔗 [Tableau Public Link]:  https://lnkd.in/dVMT_jmW 
 Image:
 ![Screenshot 2024-01-24 091644](https://github.com/mohamedsabry20/Sales-Tableau-Dashboard/assets/155188606/cc4d3abe-0419-4440-a426-b23d364966d7)
