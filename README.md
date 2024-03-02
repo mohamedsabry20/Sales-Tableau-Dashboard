@@ -4,37 +4,25 @@ I am excited to share my recent Tableau Dashboard showcasing valuable insights i
 # Steps were covered:
 ## 1_Data Exploration:
    ### Thorough examination for Missing and Duplicate Values.
-
 ## 2_Data Cleaning:
- ###   Removal of Duplicate, blank, and irrelevant data.
-  
+   ###   Removal of Duplicate, blank, and irrelevant data.
 ## 3_Data Preprocessing:
- ###   Creation of new attributes for enhanced data analysis.
-  
+   ###   Creation of new attributes for enhanced data analysis.
 ## 4_Data Visualization:
   ###  Development of an Interactive Dashboard featuring Key Performance Indicators, Trends, and Slicers.
 
 # Insights from the Dashboard:
 
-## 1_The USA region leads in sales, contributing to a substantial 32% share amounting to 9.4 million.
-
-## 2_Sales peak among customers with a Bachelor's degree in Education, accounting for 33.7% and 9.9 million.
-
-## 3_The preferred payment mode is predominantly USD (50%, 14.65 million) followed by AUD (31.3%, 9.05 million).
-
-## 4_Sales reach their zenith in June and October.
-
-## 5_Maximum profits are recorded in June and December.
-
-## 6_Profits are highest in the fourth quarter of 2013.
-
-## 7_The most demanded sub-category is Phones.
-
-## 8_The most profitable product is the "Mountain 200 Black, 38."
-
-## 9_A promotion level of 2.01 million leads to increased profits.
-
-## 10_The USA experiences maximum sales with a 3.4% promotion increase from 32%.
+### 1_The USA region leads in sales, contributing to a substantial 32% share amounting to 9.4 million.
+### 2_Sales peak among customers with a Bachelor's degree in Education, accounting for 33.7% and 9.9 million.
+### 3_The preferred payment mode is predominantly USD (50%, 14.65 million) followed by AUD (31.3%, 9.05 million).
+### 4_Sales reach their zenith in June and October.
+### 5_Maximum profits are recorded in June and December.
+### 6_Profits are highest in the fourth quarter of 2013.
+### 7_The most demanded sub-category is Phones.
+### 8_The most profitable product is the "Mountain 200 Black, 38."
+### 9_A promotion level of 2.01 million leads to increased profits.
+### 10_The USA experiences maximum sales with a 3.4% promotion increase from 32%.
 
 # Tools Used:
 ## _Figma for the background layout.
